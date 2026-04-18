@@ -292,6 +292,17 @@ Created commits, opened PRs and issues, reviewed PRs, and more. The list below i
 
 ---
 
+🌐 **Homepage:** [ramonfigueiredo.github.io](https://ramonfigueiredo.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonfigueiredo/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ramon-figueiredo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ramonfigueiredo.ai)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ramonfigueiredo.ai)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@ramonfigueiredo.ai)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/RFigueiredoAI)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ramonfigueiredo)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ramon-Figueiredo-2)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&random=false&width=900&height=32&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramon+Figueiredo%21;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Senior+Software+Engineer+%40+Sony;%F0%9F%A7%A0+Computer+Science+%C2%B7+Software+Engineering+%C2%B7+AI;%F0%9F%A4%96+AI+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+GenAI;%F0%9F%94%8E+Check+out+my+social+media;%F0%9F%93%BA+Subscribe+to+my+YouTube+channel;%F0%9F%92%99+Follow+me+on+LinkedIn;%F0%9F%98%89+Feel+free+to+reach+out;%E2%9D%A4%EF%B8%8F+Thanks+for+visiting%21;%F0%9F%91%8B+See+you+next+time%21)](https://git.io/typing-svg)
 
 > *Building intelligent, distributed systems where computer science, software engineering, and AI meet real-world impact.*
