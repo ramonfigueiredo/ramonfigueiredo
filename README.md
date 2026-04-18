@@ -1,7 +1,5 @@
 ![Ramon Figueiredo](ramon_figueiredo_cover_image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&random=false&width=900&height=32&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramon+Figueiredo%21;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Senior+Software+Engineer+%40+Sony;%F0%9F%A7%A0+Computer+Science+%C2%B7+Software+Engineering+%C2%B7+AI;%F0%9F%A4%96+AI+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+GenAI;%F0%9F%94%8E+Check+out+my+social+media;%F0%9F%93%BA+Subscribe+to+my+YouTube+channel;%F0%9F%92%99+Follow+me+on+LinkedIn;%F0%9F%98%89+Feel+free+to+reach+out;%E2%9D%A4%EF%B8%8F+Thanks+for+visiting%21;%F0%9F%91%8B+See+you+next+time%21)](https://git.io/typing-svg)
-
 # Hi, I'm Ramon Figueiredo 👋
 
 **Senior Software Engineer @ Sony** · Vancouver, BC, Canada · Computer Scientist (BSc, MSc) · PhD in Software Engineering (Applied AI)
@@ -235,10 +233,6 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 
 ![Snake animation](https://raw.githubusercontent.com/ramonfigueiredo/ramonfigueiredo/output/github-contribution-grid-snake.svg)
 
-### 🏆 Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramonfigueiredo&theme=flat&no-frame=true&margin-w=4&row=1&cache_seconds=1800)
-
 ### 📈 Activity graph
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramonfigueiredo&theme=github-compact&hide_border=true&area=true)
@@ -274,8 +268,6 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 
 ![Contribution activity](https://ghchart.rshah.org/ramonfigueiredo)
 
-See the live count, year picker, and full activity overview on my [GitHub profile](https://github.com/ramonfigueiredo).
-
 ### 🕒 Contribution activity (auto-updated daily)
 
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
@@ -283,13 +275,13 @@ Created commits, opened PRs and issues, reviewed PRs, and more. The list below i
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-For the full month-by-month timeline with year picker (2014 → present), visit my [GitHub profile](https://github.com/ramonfigueiredo).
-
 ### 🏢 Organizations I contribute to
 
 [![ASWF](https://img.shields.io/badge/-AcademySoftwareFoundation-1E88E5?style=flat-square&logo=linuxfoundation&logoColor=white)](https://github.com/AcademySoftwareFoundation)
 [![Google DeepMind](https://img.shields.io/badge/-google--gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/google-gemini)
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&random=false&width=900&height=32&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramon+Figueiredo%21;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Senior+Software+Engineer+%40+Sony;%F0%9F%A7%A0+Computer+Science+%C2%B7+Software+Engineering+%C2%B7+AI;%F0%9F%A4%96+AI+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+GenAI;%F0%9F%94%8E+Check+out+my+social+media;%F0%9F%93%BA+Subscribe+to+my+YouTube+channel;%F0%9F%92%99+Follow+me+on+LinkedIn;%F0%9F%98%89+Feel+free+to+reach+out;%E2%9D%A4%EF%B8%8F+Thanks+for+visiting%21;%F0%9F%91%8B+See+you+next+time%21)](https://git.io/typing-svg)
 
 > *Building intelligent, distributed systems where computer science, software engineering, and AI meet real-world impact.*
