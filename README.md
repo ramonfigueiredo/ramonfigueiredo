@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2315](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2315#issuecomment-4445095923) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. ℹ️ Labeled issue [#2315](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2315) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. ❗ Opened issue [#2315](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2315) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. ℹ️ Assigned PR [#2313](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2313) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. 🔒 Closed issue [#2314](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2314) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. 🎉 Merged PR [#2313](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2313) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. 🗣 Commented on [#2313](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2313#issuecomment-4435250908) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. ℹ️ Labeled issue [#2314](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2314) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. ❗ Opened issue [#2314](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2314) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. 🗣 Commented on [#2301](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2301#issuecomment-4435201931) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. 🗣 Commented on [#2325](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2325#issuecomment-4455488671) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. 🗣 Commented on [#2325](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2325#issuecomment-4455448958) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. 🗣 Commented on [#2325](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2325#issuecomment-4455250331) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. 💪 Opened PR [#2325](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2325) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. 🗣 Commented on [#2319](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2319#issuecomment-4453816075) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. ℹ️ Assigned issue [#2319](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2319) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. 🗣 Commented on [#2282](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2282#issuecomment-4453787862) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. ℹ️ Assigned issue [#2282](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2282) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. ℹ️ Unlabeled issue [#2319](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2319) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. ℹ️ Unlabeled issue [#2319](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2319) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
