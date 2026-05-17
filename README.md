@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2270](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2270) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. 🗣 Commented on [#2270](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2270#issuecomment-4462197549) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. 🗣 Commented on [#2279](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2279#issuecomment-4462159671) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. 🗣 Commented on [#2280](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2280#issuecomment-4462158220) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. 🗣 Commented on [#2281](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2281#issuecomment-4462157451) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. 🗣 Commented on [#2282](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2282#issuecomment-4462156969) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. 🗣 Commented on [#2283](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2283#issuecomment-4462155949) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. 🗣 Commented on [#2284](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2284#issuecomment-4462155537) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. 🗣 Commented on [#2285](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2285#issuecomment-4462155096) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. 🗣 Commented on [#2287](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2287#issuecomment-4462154507) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. 🗣 Commented on [#2324](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2324#issuecomment-4465470255) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. 🗣 Commented on [#2324](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2324#issuecomment-4465459526) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. ℹ️ Assigned issue [#2324](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2324) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. 🔒 Closed issue [#2333](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2333) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. 🗣 Commented on [#2279](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2279#issuecomment-4465405449) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. 🗣 Commented on [#2280](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2280#issuecomment-4465404906) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. 🗣 Commented on [#2281](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2281#issuecomment-4465404634) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. 🗣 Commented on [#2282](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2282#issuecomment-4465404334) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. 🗣 Commented on [#2283](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2283#issuecomment-4465404134) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. 🗣 Commented on [#2284](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2284#issuecomment-4465403925) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
