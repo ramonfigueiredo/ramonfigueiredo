@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2329](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2329) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. 🗣 Commented on [#2329](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2329#issuecomment-4483897426) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. 🗣 Commented on [#2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331#issuecomment-4483887895) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. ℹ️ Assigned PR [#2343](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2343) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. ℹ️ Assigned PR [#2346](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2346) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. ℹ️ Assigned issue [#2344](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2344) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. ℹ️ Assigned issue [#2347](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2347) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. ℹ️ Labeled issue [#2347](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2347) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. ❗ Opened issue [#2347](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2347) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. 💪 Opened PR [#2346](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2346) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. ℹ️ Unassigned issue [#2305](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2305) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. ℹ️ Assigned issue [#2305](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2305) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. 🗣 Commented on [#2305](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2305#issuecomment-4493650027) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. 🔒 Closed issue [#2326](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2326) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. 🎉 Merged PR [#2337](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2337) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. ℹ️ Assigned PR [#2317](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2317) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. ℹ️ Assigned PR [#2320](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2320) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. 🔒 Closed issue [#2351](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2351) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. 🎉 Merged PR [#2350](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2350) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. 🔒 Closed issue [#2279](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2279) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
