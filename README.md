@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479#issuecomment-4911473381) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. ℹ️ Assigned PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. ℹ️ Labeled PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. ℹ️ Labeled PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. 💪 Opened PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. ℹ️ Assigned PR [#2132](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2132) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. ℹ️ Assigned PR [#2098](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2098) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. ℹ️ Assigned PR [#2096](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2096) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. ℹ️ Assigned PR [#2096](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2096) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. ℹ️ Assigned PR [#1955](https://github.com/AcademySoftwareFoundation/OpenCue/pull/1955) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. 🎉 Merged PR [#2480](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2480) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. 🗣 Commented on [#2480](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2480#issuecomment-4921337757) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. ℹ️ Assigned issue [#2481](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2481) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. 🔒 Closed issue [#2481](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2481) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. ℹ️ Labeled issue [#2481](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2481) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. ❗ Opened issue [#2481](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2481) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. ℹ️ Assigned PR [#2480](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2480) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. 💪 Opened PR [#2480](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2480) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. 🗣 Commented on [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479#issuecomment-4911473381) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. ℹ️ Assigned PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
