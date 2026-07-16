@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2482](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2482) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. ℹ️ Labeled PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. ℹ️ Labeled PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. ℹ️ Assigned PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. 💪 Opened PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. 🗣 Commented on [#2482](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2482#issuecomment-4941997995) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. 🔒 Closed issue [#2483](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2483) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. ℹ️ Assigned issue [#2483](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2483) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. ℹ️ Labeled issue [#2483](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2483) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. ❗ Opened issue [#2483](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2483) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. 🗣 Commented on [#2317](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2317#issuecomment-4985666567) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. ❌ Closed PR [#2317](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2317) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. 🗣 Commented on [#2320](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2320#issuecomment-4985656036) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. ❌ Closed PR [#2320](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2320) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. 🎉 Merged PR [#2482](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2482) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. ℹ️ Labeled PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. ℹ️ Labeled PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. ℹ️ Assigned PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. 💪 Opened PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. 🗣 Commented on [#2482](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2482#issuecomment-4941997995) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
