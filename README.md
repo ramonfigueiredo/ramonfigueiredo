@@ -273,16 +273,16 @@ Full list: [github.com/ramonfigueiredo?tab=repositories](https://github.com/ramo
 Created commits, opened PRs and issues, reviewed PRs, and more. The list below is auto-refreshed every 24h with the 5 most recent public events:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2491](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2491) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-2. ℹ️ Assigned PR [#2485](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2485) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-3. ℹ️ Assigned PR [#2494](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2494) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-4. ℹ️ Assigned PR [#2493](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2493) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-5. ℹ️ Assigned PR [#2492](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2492) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-6. 🔒 Closed issue [#2488](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2488) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-7. 🎉 Merged PR [#2484](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2484) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-8. 🎉 Merged PR [#2479](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2479) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-9. 🗣 Commented on [#2488](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2488#issuecomment-5006710027) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
-10. ℹ️ Labeled issue [#2488](https://github.com/AcademySoftwareFoundation/OpenCue/issues/2488) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+1. 🎉 Merged PR [#2507](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2507) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+2. 🗣 Commented on [#2507](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2507#issuecomment-5270499456) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+3. ❌ Closed PR [#2505](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2505) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+4. ℹ️ Labeled PR [#2507](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2507) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+5. ℹ️ Assigned PR [#2507](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2507) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+6. 💪 Opened PR [#2507](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2507) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+7. ℹ️ Assigned PR [#2491](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2491) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+8. ℹ️ Assigned PR [#2485](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2485) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+9. ℹ️ Assigned PR [#2494](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2494) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
+10. ℹ️ Assigned PR [#2493](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2493) in [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)
 <!--END_SECTION:activity-->
 
 ### 🏢 Organizations I contribute to
